@@ -46,7 +46,7 @@ spring:
 
 security:
   user:
-    name: user
+    name: user1
     password: pass
 
 
